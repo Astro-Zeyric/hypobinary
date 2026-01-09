@@ -66,7 +66,7 @@ hypo dev
 
 a simple web-based encoder and decoder is available:
 
-🔗 **https://hypocrypt.tiiny.site/**
+🔗 **https://hypobinary.tiiny.site/**
 
 features:
 - encode normal text → hypobinary
